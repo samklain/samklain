@@ -1,7 +1,6 @@
 Sou Samuel Klain
 
 -Estudante de ciencias da computação.
--Estagiario em Java na Conductor.
 
 
 <div>
